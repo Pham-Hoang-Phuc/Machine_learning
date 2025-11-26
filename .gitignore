@@ -1,0 +1,17 @@
+# Thư mục môi trường ảo
+venv/
+.venv/
+
+# File biên dịch Python
+__pycache__/
+*.pyc
+
+# Checkpoints của Jupyter Notebook
+.ipynb_checkpoints/
+
+# File nhạy cảm/cục bộ
+.env
+*.log
+
+# Folder
+archive/
