@@ -19,19 +19,19 @@ The goal of this repository is to consolidate the acquired knowledge and provide
 
 ## Repository Structure
 
-The assignments are organized by week of the course for easy navigation:
+The assignments are organized by the course for easy navigation:
 
 | Directory | Content |
 | :--- | :--- |
-| `C1_W1` | Week 1: Introduction to Machine Learning | 
-| `C1_W2` | Week 2: Regression with multiple input variables |
+| `Course_1` | Supervised Machine Learning: Regression and Classification | 
+| `Course_2` | Advanced Learning Algorithms |
 
 
-*(Note: This repository is structured to evolve alongside the curriculum. New course modules (C1_W3 ,C2_W1, C3, etc.) will be added sequentially as I progress through the complete specialization.)*
+*(Note: This repository is structured to evolve alongside the curriculum. New course modules will be added sequentially as I progress through the complete specialization.)*
 
 ## Technology Used
 
-* **Language**: Python 3.10
+* **Language**: Python 3.12.7
 * **Environment**: Jupyter Notebook (`.ipynb`)
 
 ## How to Use
